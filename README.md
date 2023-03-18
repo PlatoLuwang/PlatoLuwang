@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlatoLuwang
-- 👀 I’m interested in ...Developing software
-- 🌱 I’m currently learning ...Web development
+- 👀 I’m interested in ...Developing Software
+- 🌱 I’m currently learning ...Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
