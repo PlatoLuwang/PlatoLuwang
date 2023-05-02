@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PlatoMeitram
-- 👀 I’m interested in ... Developing Software
+- 👋 Hi, I’m @PlatoMeitram Full Stack Developer
+- 👀 I’m interested in ... Developing Game
 - 🌱 I’m currently learning ... App Development
-- 💞️ I’m looking to collaborate on ... Who want to build social-media apps 
+- 💞️ I’m looking to collaborate on ... Who wants to build social-media apps 
 - 📫 How to reach me ... platomeitramm5@gmail.com
 
 <!---
